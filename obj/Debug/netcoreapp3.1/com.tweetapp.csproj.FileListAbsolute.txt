@@ -1,0 +1,88 @@
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.exe
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.deps.json
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.json
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.dev.json
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.pdb
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.AssemblyReference.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfoInputs.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfo.cs
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CoreCompileInputs.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.Manifest.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.xml
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\com.tweetapp.styles.css
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.RazorTargetAssemblyInfo.cache
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CopyComplete
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.dll
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.pdb
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.genruntimeconfig.cache
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Accreditation\Component 2\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Accreditation\Component 2\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.StaticWebAssets.xml
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.exe
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.deps.json
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.json
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.runtimeconfig.dev.json
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.AssemblyReference.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfoInputs.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.AssemblyInfo.cs
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CoreCompileInputs.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\staticwebassets\com.tweetapp.StaticWebAssets.Manifest.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.RazorTargetAssemblyInfo.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.csproj.CopyComplete
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.dll
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.pdb
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\obj\Debug\netcoreapp3.1\com.tweetapp.genruntimeconfig.cache
+C:\Users\prith\Downloads\com.tweetapp_d2bdeaaa-6d2e-4dc0-a4d4-255e8f6a93db_Prithwiman.Mazumdar2@cognizant.com\com.tweetapp\bin\Debug\netcoreapp3.1\aws-ecs-tools-defaults.json

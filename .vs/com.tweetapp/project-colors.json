@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ff5f0f7-3165-428d-9c96-1ee20d303754": {
+      "ProjectGuid": "0ff5f0f7-3165-428d-9c96-1ee20d303754",
+      "DisplayName": "com.tweetapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
